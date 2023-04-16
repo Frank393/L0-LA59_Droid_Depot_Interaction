@@ -1,3 +1,6 @@
+//L0-LA59_Droid_Depot_Interaction V1
+//Author: Frank393
+//https://github.com/Frank393
 #include <BLEDevice.h>
 #include <BLEUtils.h>
 #include <BLEScan.h>
